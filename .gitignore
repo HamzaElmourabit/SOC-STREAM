@@ -8,3 +8,4 @@ checkpoints/
 logs/
 *.log
 .ipynb_checkpoints/
+.env

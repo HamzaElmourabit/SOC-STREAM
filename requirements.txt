@@ -1,0 +1,10 @@
+
+# Data processing
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+
+# Kafka Producer
+kafka-python>=2.0.2,<3.0
+
+# Configuration
+python-dotenv>=1.0,<2.0
